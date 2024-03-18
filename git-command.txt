@@ -21,4 +21,5 @@ Uploads your local commits to a remote repository:
 Downloads changes from a remote repository and merges them into your local branch:
 
 
-// nake some change ----
+// make some change ----
+// push by Bunthong 
